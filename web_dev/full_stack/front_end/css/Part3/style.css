@@ -1,0 +1,24 @@
+.firstDiv{
+    color: brown;
+}
+
+.secondDiv{
+    color: blue;
+}
+
+#singleout{
+    color: green;
+    text-decoration: line-through;
+}
+
+h3 + ul{
+    border: 2px dotted black;
+}
+
+li a{
+    color: red;
+}
+
+li a[href="https://www.python.org/"]{
+    border: 2px dashed blue;
+}
