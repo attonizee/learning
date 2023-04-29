@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://img.freepik.com/free-photo/tropical-beach_74190-188.jpg?w=1000);
+}
+
+div{
+    background-color: azure;
+    border-color: black;
+    border-width: 2px;
+    border-style: double;
+}
+
+p{
+    color: brown;
+}
+
+span{
+    background-color: aquamarine;
+    color: black;
+}
