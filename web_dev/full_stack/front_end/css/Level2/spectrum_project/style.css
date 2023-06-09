@@ -1,0 +1,40 @@
+/*font-family: 'Tilt Prism', cursive;*/
+h1{
+    font-family: 'Tilt Prism', cursive;
+    text-align: center;
+}
+
+td{
+    width: 100px;
+    height: 200px;
+    border: 6px solid white;
+}
+
+#table{
+    margin: auto;
+}
+
+#td1{
+    background-color:#0081A7;
+   
+    
+}
+
+#td2{
+    background-color: #00AFB9;
+    
+}
+
+#td3{
+    background-color: #FDFCDC;
+   
+}
+
+#td4{
+    background-color: #FED9B7;
+    
+}
+
+#td5{
+    background-color: #F07167;
+}
